@@ -1,2 +1,2 @@
 # forum-extension-manifest
-Image extension manifest
+mafiascum extension manifest
