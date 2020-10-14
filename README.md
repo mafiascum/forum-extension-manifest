@@ -1,2 +1,2 @@
-# forum-extension-builder
-Image extension manifest and builder
+# forum-extension-manifest
+Image extension manifest
