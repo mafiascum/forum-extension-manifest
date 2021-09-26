@@ -12,10 +12,6 @@
         "role": "Omerta"
     }],
     "require": {
-        // "mafiascum/privatetopics": "dev-master",
-        // "mafiascum/isos": "dev-master",
-        // "mafiascum/sitechat": "dev-master",
         "mafiascum/authentication": "dev-master"
-        // "mafiascum/bbcodes": "dev-master"
     }
 }
