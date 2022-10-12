@@ -5,6 +5,11 @@
     "homepage": "https://github.com/mafiascum/forum-deployment",
     "time": "2020-10-13",
     "license": "GPL-2.0",
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    },
     "authors": [{
         "name": "Charlie Ciccia",
         "email": "cciccia@gmail.com",
