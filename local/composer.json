@@ -18,15 +18,15 @@
         "role": "Omerta"
     }],
     "require": {
-        "mafiascum/privatetopics": "dev-master",
-        "mafiascum/isos": "dev-master",
-        "mafiascum/sitechat": "dev-master",
-        "mafiascum/authentication": "dev-master",
-        "mafiascum/bbcodes": "dev-master",
-        "mafiascum/mcp": "dev-master",
-        "mafiascum/miscellaneous": "dev-master",
-        "mafiascum/restApi": "dev-master",
-        "mafiascum/signup": "dev-master",
-        "mafiascum/votecounter_extension": "dev-master"
+        "mafiascum/privatetopics": "dev-main",
+        "mafiascum/isos": "dev-main",
+        "mafiascum/sitechat": "dev-main",
+        "mafiascum/authentication": "dev-main",
+        "mafiascum/bbcodes": "dev-main",
+        "mafiascum/mcp": "dev-main",
+        "mafiascum/miscellaneous": "dev-main",
+        "mafiascum/restApi": "dev-main",
+        "mafiascum/signup": "dev-main",
+        "mafiascum/votecounter_extension": "dev-main"
     }
 }
