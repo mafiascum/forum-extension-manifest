@@ -12,6 +12,12 @@
         "role": "Omerta"
     }],
     "require": {
-        "mafiascum/privatetopics": "0.4.0"
+        "mafiascum/privatetopics": "0.4.1",
+        "mafiascum/isos": "0.2.0",
+        "mafiascum/sitechat": "0.3.0",
+        "mafiascum/authentication": "0.2.0",
+        "mafiascum/bbcodes": "0.1.0",
+        "mafiascum/mcp": "0.1.0",
+        "mafiascum/miscellaneous": "0.1.0"
     }
 }

@@ -21,6 +21,8 @@
         "mafiascum/isos": "dev-master",
         "mafiascum/sitechat": "dev-master",
         "mafiascum/authentication": "dev-master",
-        "mafiascum/bbcodes": "dev-master"
+        "mafiascum/bbcodes": "dev-master",
+        "mafiascum/mcp": "dev-master",
+        "mafiascum/miscellaneous": "dev-master"
     }
 }
